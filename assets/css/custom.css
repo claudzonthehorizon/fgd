@@ -844,7 +844,7 @@ footer li a {
 		width:100%;
 	}
 	#hero {
-	background-position: center center;
+	background-position: 50% 100px;
 	background-size: 100%;
 	background-color: #000;
 	background-repeat: no-repeat;
@@ -903,7 +903,7 @@ footer li a {
 		height:100px;
 	}
 	#hero {
-	background-position: 35% 142px;
+	background-position: 35% 100px;
 	background-size: 100%;
 	background-color: #000;
 	background-repeat: no-repeat;
@@ -980,7 +980,7 @@ footer li a {
 	position: fixed!important;
 	}
 	#hero {
-	background-position: 35% 142px;
+	background-position: 35% 100px;
 	background-size: 100%;
 	background-color: #000;
 	background-repeat: no-repeat;
