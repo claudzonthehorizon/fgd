@@ -844,7 +844,8 @@ footer li a {
 		width:100%;
 	}
 	#hero {
-	background-size: cover;
+	background-position: center center;
+	background-size: 100%;
 	background-color: #000;
 	background-repeat: no-repeat;
 	height:100%;
@@ -902,8 +903,8 @@ footer li a {
 		height:100px;
 	}
 	#hero {
-	/*background-position: 35% 142px;*/
-	background-size: cover;
+	background-position: 35% 142px;
+	background-size: 100%;
 	background-color: #000;
 	background-repeat: no-repeat;
 	height:100%;
@@ -979,8 +980,8 @@ footer li a {
 	position: fixed!important;
 	}
 	#hero {
-	/*background-position: 35% 142px;*/
-	background-size: cover;
+	background-position: 35% 142px;
+	background-size: 100%;
 	background-color: #000;
 	background-repeat: no-repeat;
 	height:100%;
