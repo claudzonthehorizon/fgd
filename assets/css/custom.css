@@ -396,7 +396,7 @@ form textarea {
     box-shadow: 2px 2px 1px #575757; 
     -moz-box-shadow: 2px 2px 1px #575757; 
     -webkit-box-shadow: 2px 2px 1px #575757; 
-    -khtml-box-shadow: 2px 2px 1spx #575757; 
+    -khtml-box-shadow: 2px 2px 1px #575757; 
     margin-bottom:120px;
 }
 
@@ -566,7 +566,7 @@ section.main-content {
 #contact {
 	text-align: center;
 	background: url('../img/contact-bg.jpg') center center no-repeat;
-	background-size: cover
+	background-size: cover;
 	color: white;
 	padding: 140px 0;
 }
@@ -603,7 +603,7 @@ section.main-content {
 	text-align: center;
 }
 #faq .panel-group {
-	margin-bottom: :0px 0 0 0;
+	margin-bottom: 0px 0 0 0;
 }
 #faq .panel {
 	margin:5px;
