@@ -845,7 +845,7 @@ footer li a {
 	}
 	#hero {
 	background-position:center center;
-	background-size: 100%;
+	background-size: contain;
 	background-color: #000;
 	background-repeat: no-repeat;
 	height:100%;
@@ -904,7 +904,7 @@ footer li a {
 	}
 	#hero {
 	background-position: 35% 142px;
-	background-size: 100%;
+	background-size: contain;
 	background-color: #000;
 	background-repeat: no-repeat;
 	height:100%;
@@ -981,7 +981,7 @@ footer li a {
 	}
 	#hero {
 	background-position: 35% 142px;
-	background-size: 100%;
+	background-size: contain;
 	background-color: #000;
 	background-repeat: no-repeat;
 	height:100%;
