@@ -844,7 +844,11 @@ footer li a {
 		width:100%;
 	}
 	#hero {
-	background-size: 30%;
+	background-size: cover;
+	background-color: #000;
+	background-repeat: no-repeat;
+	height:100%;
+	min-height: 320px;
 	}
 	#hero h1 {
 		font-size: 2em;
@@ -898,7 +902,12 @@ footer li a {
 		height:100px;
 	}
 	#hero {
-	background-size: 30%;
+	/*background-position: 35% 142px;*/
+	background-size: cover;
+	background-color: #000;
+	background-repeat: no-repeat;
+	height:100%;
+	min-height: 320px;
 	}
 	#hero h1 {
 		font-size: 2em;
@@ -971,7 +980,11 @@ footer li a {
 	}
 	#hero {
 	/*background-position: 35% 142px;*/
-	background-size: 30%;
+	background-size: cover;
+	background-color: #000;
+	background-repeat: no-repeat;
+	height:100%;
+	min-height: 210px;
 	}
 	#hero .hero-text {
 		margin-top:-10%;
