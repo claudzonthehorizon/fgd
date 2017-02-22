@@ -843,6 +843,41 @@ footer li a {
 		margin-right:0;
 		width:100%;
 	}
+	#hero {
+	background-size: 30%;
+	}
+	#hero h1 {
+		font-size: 2em;
+		margin-top:10%;
+		margin-bottom:0%;
+	}
+	#contact {
+	background-position: 35% 0px;
+	background-size: 100%;
+	background-color: #000;
+	background-repeat: no-repeat;
+	height:100%;
+	min-height:500px;
+	padding:0;
+	}
+	#contact h2 {
+		margin-top:25%;
+	}
+	#price-timeline {
+		margin-bottom: 15px;
+	}
+	#price-timeline .price h4 {
+		font-size:0.9em;
+	}
+	#price-timeline .price span {
+	height: 60px;
+	width: 60px;
+	line-height: 55px;
+	font-size: 14px;
+	bottom: -35px;
+	left: 50%;
+	margin-left: -28px;
+}
 }
 
 @media screen and (min-width: 768px) and (max-width : 951px) {
@@ -861,6 +896,49 @@ footer li a {
 	}
 	.navbar-header {
 		height:100px;
+	}
+	#hero {
+	background-size: 30%;
+	}
+	#hero h1 {
+		font-size: 2em;
+		margin-top: -10%;
+		margin-bottom:18%;
+	}
+	#contact {
+	/*background-position: 35% 142px;*/
+	background-size: 100%;
+	background-color: #000;
+	background-repeat: no-repeat;
+	height:100%;
+	min-height:370px;
+	padding:0;
+	}
+	#contact h2 {
+		margin-top:5%;
+		margin-bottom:35%;
+		color:#fff;
+		font-size: 1.8em;
+		text-shadow: 
+		-1px 0 black, 
+		0 1px  black, 
+		2px 0 6px black, 
+		0 -1px black;
+	}
+	#price-timeline {
+		margin-bottom: 15px;
+	}
+	#price-timeline .price h4 {
+		font-size:0.9em;
+	}
+	#price-timeline .price span {
+	height: 60px;
+	width: 60px;
+	line-height: 55px;
+	font-size: 14px;
+	bottom: -35px;
+	left: 50%;
+	margin-left: -28px;
 	}
 }
 
@@ -890,6 +968,37 @@ footer li a {
 	}	
 #wpadminbar {
 	position: fixed!important;
+	}
+	#hero {
+	/*background-position: 35% 142px;*/
+	background-size: 30%;
+	}
+	#hero .hero-text {
+		margin-top:-10%;
+		margin-bottom: 30%;
+	}
+	#hero h1, #price-timeline {
+		display: none;
+	}
+	#contact {
+	/*background-position: 35% 142px;*/
+	background-size: 100%;
+	background-color: #000;
+	background-repeat: no-repeat;
+	height:100%;
+	min-height:260px;
+	padding:0;
+	}
+	#contact h2 {
+		margin-top:5%;
+		margin-bottom:35%;
+		color:#fff;
+		font-size: 1.4em;
+		text-shadow: 
+		-1px 0 black, 
+		0 1px  black, 
+		2px 0 6px black, 
+		0 -1px black;
 	}
 }
 
